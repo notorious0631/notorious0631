@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Bhaskar</h1>
 <h3 align="center">NOOB CODER❤️</h3>
 (img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif")
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notorious0631&show_icons=true&locale=en" alt="notorious0631" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notorious0631&" alt="notorious0631" /></p>
+
