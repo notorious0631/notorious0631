@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Bhaskar</h1>
 <h3 align="center">NOOB CODER❤️</h3>
 (img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif")
