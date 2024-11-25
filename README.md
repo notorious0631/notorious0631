@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhaskar0631" target="blank"><img src="https://img.shields.io/twitter/follow/bhaskar0631?logo=twitter&style=for-the-badge" alt="bhaskar0631" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 📫 How to reach me **bhaskar.sep2003@gmail.com**
 
